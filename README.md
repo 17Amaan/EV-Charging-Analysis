@@ -1,11 +1,9 @@
-# EV-Charging-Analysis
-SQL portfolio project analyzing EV registrations, EV sales, charging infrastructure, charging sessions, revenue, and business KPIs using Microsoft SQL Server.
 
 # EV-Charging-Analysis
 
 A complete **SQL portfolio project** focused on analyzing EV registrations, EV sales, charging infrastructure, charging-session activity, and charging revenue using **Microsoft SQL Server**.
 
-This project demonstrates practical SQL skills required for **Data Analyst and Data Scientist** roles, including data exploration, aggregation, CTEs, JOINs, window functions, KPI analysis, and business-oriented problem solving.
+This project demonstrates practical SQL skills required for **Data Analyst roles, including data exploration, aggregation, CTEs, JOINs, window functions, KPI analysis, and business-oriented problem solving.
 
 ---
 
